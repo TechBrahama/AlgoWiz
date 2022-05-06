@@ -6,7 +6,6 @@
     
   </tr>
 </table> -->
-<p align='center'><img  src="img/ss1.png"></p>
 
 ## Implemented Algorithms:
 * Bubble Sort 
@@ -14,8 +13,10 @@
 * Selection Sort 
 * Merge Sort 
 * Quick Sort 
-* Heap Sort 
-* Counting Sort
+* Linaer Search
+* Binary Search
+* A Star
+* Dijkstra
 
 ## Built With:
 * Python 3.7.7
@@ -25,7 +26,7 @@
 ## Run It (Python >= 3.5):
 - Clone the repository
 ```bash
-
+$ git clone https://github.com/TechBrahama/AlgoWiz.git
 ```
 - Run ```main.py``` from root
 ```bash
